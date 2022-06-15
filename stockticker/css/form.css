@@ -1,0 +1,26 @@
+body{
+    background-image: url(../imgs/a.jpg);
+    background-size: cover; 
+    background-color: rgba(0,0,0,0.75); 
+}
+.title{
+    background: rgb(15, 147, 255);
+    text-align: center;
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 0px 0px 10px 10px;
+}
+.login-form{
+    margin-top: 280px;
+    box-shadow: 0px 0px 50px 0px gray;
+    border-radius: 5px;
+    padding-bottom: 30px;
+    box-shadow: -1px 2px 29px 3px rgba(0,0,0,0.75);
+    margin-left: -307px;  
+}
+
+a {
+    color: rgb(255, 255, 255) important;
+    text-decoration: underline;
+    font-size: 20px;
+} 
